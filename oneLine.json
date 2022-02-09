@@ -1,44 +1,40 @@
 {
-	"features": [
-		{
-			"geometry": {
-				"coordinates": [
-					[
-						117.028085,
-						39.120791,
-						0.0
-					],
-					[
-						117.028048,
-						39.120714,
-						0.0
-					]
-				],
-				"type": "LineString"
-			},
-			"properties": {
-                "color": "#00aeef",
-				"lane_id": 0,
-				"road_id": "513",
-				"road_length": 16.12027675687212,
-				"name": "111",
-				"section_idx": 0
-			},
-			"type": "Feature"
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"name": "West Oakland (WOAK)"
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					117.028085,
-					39.120664
-				]
-			}
-		}
-	],
-	"type": "FeatureCollection"
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lafayette (LAFY)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.028048,
+          39.120714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "FRMT-DALY (ROUTE 5/6)",
+        "color": "#4db848"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            117.028085,
+            39.120791,
+            0
+          ],
+          [
+            117.028047,
+            39.120737,
+            0
+          ]
+        ]
+      }
+    }
+  ]
 }
