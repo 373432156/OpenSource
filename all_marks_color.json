@@ -86232,10 +86232,10 @@
 				]
 			}
 		},
-		{
+		{			
 			"type": "Feature",
 			"properties": {
-				"name": "West Oakland (WOAK)"
+				"name": "West Oakland (WOAK)",
 				"icon": "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png"
 			},
 			"geometry": {
