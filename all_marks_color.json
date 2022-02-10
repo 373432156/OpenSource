@@ -86221,20 +86221,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "Light"
-				"icon": "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png"
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					117.028085,
-					39.120664
-				]
-			}
-		},
-		{			
-			"type": "Feature",
-			"properties": {
 				"name": "West Oakland (WOAK)",
 				"icon": "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png"
 			},
