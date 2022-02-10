@@ -86222,10 +86222,10 @@
 			"type": "Feature",
 			"properties": {
 				"name": "Light"
-				"icon": ""
+				"icon": "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png"
 			},
 			"geometry": {
-				"type": "icon",
+				"type": "point",
 				"coordinates": [
 					117.028085,
 					39.120664
