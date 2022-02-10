@@ -86221,8 +86221,8 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": "West Oakland (WOAK)",
-				"icon": "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png"
+				"name": "TrafficLight",
+				"iconAtlas": "https://raw.githubusercontent.com/373432156/OpenSource/main/trafficLight.png"
 			},
 			"geometry": {
 				"type": "Point",
