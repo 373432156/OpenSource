@@ -86225,7 +86225,7 @@
 				"icon": "https://raw.githubusercontent.com/visgl/deck.gl-data/master/website/icon-atlas.png"
 			},
 			"geometry": {
-				"type": "point",
+				"type": "Point",
 				"coordinates": [
 					117.028085,
 					39.120664
