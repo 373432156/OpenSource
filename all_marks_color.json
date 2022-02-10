@@ -86217,6 +86217,20 @@
 				"section_idx": 0
 			},
 			"type": "Feature"
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Light"
+				"icon": ""
+			},
+			"geometry": {
+				"type": "icon",
+				"coordinates": [
+					117.028085,
+					39.120664
+				]
+			}
 		}
 	],
 	"type": "FeatureCollection"
